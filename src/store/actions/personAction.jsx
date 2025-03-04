@@ -1,4 +1,4 @@
-import axios from "../../utils/Axios";
+import axios from "../../utils/axios";
 export { removePerson } from "../reducers/personSlice";
 import { loadPerson } from "../reducers/personSlice";
 
