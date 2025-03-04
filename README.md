@@ -56,7 +56,7 @@ Wanna run STREAM locally? Here’s how to do it:
 ## 🌍 Is STREAM Deployed?
 
 Yes! STREAM is live and deployed on Vercel for your movie-browsing pleasure.\
-Check it out here – [STREAM Movies](https://stream.vercel.app/) – because why wouldn’t you want to? 🍿🎥
+Check it out here – [STREAM Movies](https://stream-eight-eta.vercel.app/) – because why wouldn’t you want to? 🍿🎥
 
 ---
 
