@@ -10,7 +10,7 @@ import {
 } from "react-router-dom";
 import HorizontalCards from "./partials/HorizontalCards";
 import Loading from "./Loading";
-import Dropdown from "./partials/Dropdown";
+import Dropdown from "./partials/DropDown";
 
 function PersonDetails() {
   const { pathname } = useLocation();
